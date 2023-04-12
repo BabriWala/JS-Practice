@@ -1,0 +1,26 @@
+JS Display Possibilities
+    InnerHTML
+    document.write()
+    window.alert
+    console.log
+
+Puro Page ta load houar por js ta execute kore dei    
+document.write prothom bar simply run korsilo ar write kore diyesilo 
+but probortite jokhon reload dewa hobe tokon eita delete hoye jabe
+
+
+client side e ami ja mon cai tai korte pari mane holo ami jei html and css js dekte passi ja amk fb diyese 
+eita jodi ami delete kore dei tahole just amr akan tikei cole jabe but tader okan tike jabena
+
+The document.write() method should only be used for testing.
+
+window akta global akta jinish ja always amdr web browser e ase to tai take bar bar uccaron korar kono mane hoina
+
+eita kortesi holo debug korar jonno j code e kono vul holo kina
+log mane holo jokhon execution / run kora hosse tokon tumi kisu proman rakho jate ami take dorte pari
+
+print akta method jeita diye ami print korte pari onno kono access amr nei 
+
+vscodeicons
+
+./ er mane holo jekane asi sekanei

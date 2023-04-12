@@ -1,0 +1,47 @@
+JS is a mother language of a web/ web development
+
+JS is a mother language of a web 
+and where the website works it works on web browswer
+
+html holo content eita k ami click korar por se akta interaction korlo 
+mane jokon ami click korlam tokon ei kajer jonno webpage ta amr sate akta communication korlo and akta response dilo seitai holo
+interactive kaj
+
+3jon mile web page represent kore html, css, js
+
+javaScript official name is ecmascript
+european computer manufacture association
+jara scripting language er akta standard thik kore dei je tomra eivabei code likhba
+JS Accept Double and Single Quote
+
+JS Can change 
+HTML content
+HTML Attribute
+CSS Styles
+Show/Hide
+
+JavaScript and Java are completely different languages, both in concept and design.
+JavaScript was invented by Brendan Eich in 1995, and became an ECMA standard in 1997.
+ECMA-262 is the official name of the standard. ECMAScript is the official name of the language. 
+
+javaScript is the default scripting language of the web
+
+html can write 
+head or body 
+
+Old JavaScript examples may use a type attribute: <script type="text/javascript">.
+The type attribute is not required. JavaScript is the default scripting language in HTML.
+
+Placing scripts at the bottom of the <body> element improves the display speed, because script interpretation slows down the display.
+
+External JS Code
+
+Placing scripts in external files has some advantages:
+
+    It separates HTML and code
+    It makes HTML and JavaScript easier to read and maintain
+    
+    Cached JavaScript files can speed up page loads // mane ei file ta jokhon akbar load kora hobe and dityobar jokhon eitak refresh kora hobe eita cached hoye takbe mane memory te mone 
+    rakhbe
+
+    tokon notun kore take abr ei file ta load korte hoina se browser er jeikane cached kora ase seikhan tike niye aste parbe
